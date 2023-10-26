@@ -10,9 +10,9 @@
 
 ---
 
-<h2 align="center">🌱 Actualmente estoy aprendiendo:</h2>
+<h2 >🌱 Actualmente estoy aprendiendo:</h2>
 
-<p align="center">
+<p >
   - .NET Core y ASP.NET <br>
   - React y Redux <br>
   - Node.js y Express <br>
@@ -22,15 +22,15 @@
 
 ---
 
-<h2 align="center">🛠 Tecnologías y Herramientas</h2>
+<h2 >🛠 Tecnologías y Herramientas</h2>
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,java,py,spring,mysql,postgres,mongodb,git,github,node,react,docker,graphql,oracle,sqlserver,databricks,csharp,cpp,arduino&perline=14" alt="Tecnologías y herramientas que Jesús Soria utiliza" width="800">
 </p>
 
 ---
 
-<h2 align="center">📫 Contáctame</h2>
+<h2 >📫 Contáctame</h2>
 
 <p align="center">
   <a href="mailto:yisusoria@gmail.com">
