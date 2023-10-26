@@ -39,7 +39,7 @@
   </a>
   <br>
   <a href="mailto:jesus_soria@usmp.pe">
-    <img src="https://img.icons8.com/color/48/000000/outlook.png" alt="Icono de Outlook" width="30">
+    <img src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="Icono de Outlook" width="30">
     jesus_soria@usmp.pe
   </a>
   <br>
