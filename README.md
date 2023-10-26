@@ -33,9 +33,20 @@
 <h2 align="center">📫 Contáctame</h2>
 
 <p align="center">
-  📧 <a href="mailto:yisusoria@gmail.com">yisusoria@gmail.com</a> <br>
-  📧 <a href="mailto:jesus_soria@usmp.pe">jesus_soria@usmp.pe</a> <br>
-  📘 <a href="https://www.facebook.com/tuusuario">Facebook</a>
+  <a href="mailto:yisusoria@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Icono de Gmail" width="30">
+    yisusoria@gmail.com
+  </a>
+  <br>
+  <a href="mailto:jesus_soria@usmp.pe">
+    <img src="https://img.icons8.com/color/48/000000/outlook.png" alt="Icono de Outlook" width="30">
+    jesus_soria@usmp.pe
+  </a>
+  <br>
+  <a href="https://www.facebook.com/tuusuario">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Icono de Facebook" width="30">
+    Facebook
+  </a>
 </p>
 
 ---
