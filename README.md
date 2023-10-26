@@ -51,6 +51,34 @@
 
 ---
 
+<h2>🔧 Proyectos Destacados</h2>
+
+<h3>Inkamanu</h3>
+<p>
+  Proyecto desarrollado en mi curso de <strong>Ingeniería de Software 1</strong> siguiendo la metodología Scrum y enfocado en cumplir con los requerimientos del cliente.
+  <br>
+  🌐 <a href="https://inkamanu.onrender.com/">Ver proyecto</a>
+</p>
+
+<h3>Athletix</h3>
+<p>
+  E-commerce creado en mi curso de <strong>Programación 1</strong> para la venta de productos de gimnasio, como suplementos y ropa.
+  <br>
+  🌐 <a href="https://athletix.onrender.com/">Ver proyecto</a>
+</p>
+
+---
+
+<h2>🎤 Presentaciones y Charlas</h2>
+
+<p>
+  En mi proyecto de 4to ciclo, inicié la programación con <strong>Spring Boot</strong> y <strong>Android Studio</strong>, utilizando bases de datos MySQL y SQLite. Presenté este trabajo en la <strong>Expo EPICS</strong> de la Universidad San Martín de Porres.
+  <br>
+  🎥 <a href="https://www.youtube.com/watch?v=JU1s9c_09LU&t=113s&ab_channel=FIAUSMP">Ver video de la presentación</a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
