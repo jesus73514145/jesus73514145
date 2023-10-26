@@ -25,7 +25,7 @@
 <h2 >🛠 Tecnologías y Herramientas</h2>
 
 <p >
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,java,py,spring,mysql,postgres,mongodb,git,github,node,react,docker,graphql,oracle,sqlserver,databricks,csharp,cpp,arduino&perline=14" alt="Tecnologías y herramientas que Jesús Soria utiliza" width="800">
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,java,py,spring,mysql,postgres,mongodb,git,github,node,react,docker,graphql,oracle,sqlserver,databricks,csharp,cpp,arduino&perline=10" alt="Tecnologías y herramientas que Jesús Soria utiliza" width="800">
 </p>
 
 ---
