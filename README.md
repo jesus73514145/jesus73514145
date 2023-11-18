@@ -53,13 +53,6 @@
 
 <h2>🔧 Proyectos Destacados</h2>
 
-<h3>Inkamanu</h3>
-<p>
-  Proyecto desarrollado en mi curso de <strong>Ingeniería de Software 1</strong> siguiendo la metodología Scrum y enfocado en cumplir con los requerimientos del cliente.
-  <br>
-  🌐 <a href="https://inkamanu.onrender.com/">Ver proyecto</a>
-</p>
-
 <h3>Athletix</h3>
 <p>
   E-commerce creado en mi curso de <strong>Programación 1</strong> para la venta de productos de gimnasio, como suplementos y ropa.
