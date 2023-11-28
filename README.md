@@ -57,7 +57,7 @@
 <p>
   E-commerce creado en mi curso de <strong>Programación 1</strong> para la venta de productos de gimnasio, como suplementos y ropa.
   <br>
-  🌐 <a href="https://athletix.onrender.com/">Ver proyecto</a>
+  🌐 <a href="https://athletix.onrender.com/AthetiX/NoCliente/Catalogo">Ver proyecto</a>
 </p>
 
 ---
