@@ -43,7 +43,7 @@
     jesus_soria@usmp.pe
   </a>
   <br>
-  <a href="https://www.linkedin.com/in/jes%C3%BAs-alberto-soria-llantoy" target="_blank">
+  <a href="https://www.linkedin.com/in/jesusalbertosoriallantoy" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Icono de LinkedIn" width="30">
     Mi perfil de LinkedIn
   </a>
