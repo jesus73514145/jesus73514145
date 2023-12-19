@@ -71,15 +71,7 @@
 </p>
 
 ---
-
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="jesús-alberto-soria-llantoy-aab6ab2a4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pe.linkedin.com/in/jes%C3%BAs-alberto-soria-llantoy-aab6ab2a4?trk=profile-badge">Jesús Alberto Soria Llantoy</a></div>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jes%C3%BAs-alberto-soria-llantoy-aab6ab2a4)
               
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
