@@ -72,6 +72,15 @@
 
 ---
 
+**GitHub Stats:**  
+
+<a href="https://github.com/jesus73514145/jesus73514145">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&hide=html,css,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/jesus73514145/jesus73514145">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesus73514145&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="fduartej's GitHub Stats" />
+</a>
               
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
