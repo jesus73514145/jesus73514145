@@ -32,6 +32,10 @@
 
 <h2 >📫 Contáctame</h2>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesus73514145)](https://github.com/jesus73514145)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesus73514145/)](https://www.linkedin.com/in/jesus73514145/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yisusoria@gmail.com)](mailto:yisusoria@gmail.com)
+
 <p align="center">
   <a href="mailto:yisusoria@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Icono de Gmail" width="30">
