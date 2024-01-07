@@ -35,23 +35,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesus73514145)](https://github.com/jesus73514145)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesus73514145/)](https://www.linkedin.com/in/jesus73514145/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yisusoria@gmail.com)](mailto:yisusoria@gmail.com)
-
-<p align="center">
-  <a href="mailto:yisusoria@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Icono de Gmail" width="30">
-    yisusoria@gmail.com
-  </a>
-  <br>
-  <a href="mailto:jesus_soria@usmp.pe">
-    <img src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="Icono de Outlook" width="30">
-    jesus_soria@usmp.pe
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/jesusalbertosoriallantoy" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Icono de LinkedIn" width="30">
-    Mi perfil de LinkedIn
-  </a>
-</p>
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:jesus_soria@usmp.pe)](mailto:jesus_soria@usmp.pe)
 
 ---
 
@@ -76,11 +60,12 @@
 
 ---
 
-**GitHub Stats:**  
+## **GitHub Stats:**  
 
 <a href="https://github.com/jesus73514145/jesus73514145">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&hide=html,css,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 
 <a href="https://github.com/jesus73514145/jesus73514145">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesus73514145&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="fduartej's GitHub Stats" />
