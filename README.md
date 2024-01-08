@@ -2,15 +2,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/logoban.gif" />
-      <h4> Paradigma: Multiparadigma: Programación Estructurada, imperativo, programación genérica </h4>
-    </td>
-  </tr>
-</table>
-
 <h1 >¡Hola! Soy Jesús 👋</h1>
 
 <p >
@@ -28,6 +19,15 @@
   - GraphQL <br>
   - Docker y Kubernetes
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/logoban.gif" />
+      <h4> Paradigma: Multiparadigma: Programación Estructurada, imperativo, programación genérica </h4>
+    </td>
+  </tr>
+</table>
 
 ---
 
