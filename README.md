@@ -99,7 +99,7 @@
 
 *   Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&langs_count=10)
 
 *   Setting card locale
 
