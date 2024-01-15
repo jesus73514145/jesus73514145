@@ -103,7 +103,8 @@
 
 *   Setting card locale
 
-![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jesus73514145\&locale=es)
+![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jesus73514145&custom_title=Jesús%20Soria&custom_width=500&locale=es)
+
            
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
