@@ -99,8 +99,8 @@
 
 *   Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&langs_count=10)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&langs_count=10) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145\&layout=compact&langs_count=10)
 *   Setting card locale
 
 ![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jesus73514145&custom_title=Estadisticas%20de%20Jesús%20Soria&custom_width=500&locale=es)
