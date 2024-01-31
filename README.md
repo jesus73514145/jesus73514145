@@ -100,16 +100,16 @@
 *   Top languages
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&langs_count=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145\&layout=compact&langs_count=10)  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/jesus73514145)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145\&layout=compact&langs_count=10) 
+Verde Oscuro a Azul Claro: -->
+[![Ejemplo 2](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&layout=compact&langs_count=10&bg_color=30,192F6A,49a7c5&title_color=fff&text_color=fff)](https://github.com/jesus73514145)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/jesus73514145)
 
 
 
 Azul Profundo a Púrpura:
 [![Ejemplo 1](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&layout=compact&langs_count=10&bg_color=30,001F3F,8A4B88&title_color=fff&text_color=fff)](https://github.com/jesus73514145)
-
-Verde Oscuro a Azul Claro:
-[![Ejemplo 2](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&layout=compact&langs_count=10&bg_color=30,192F6A,49a7c5&title_color=fff&text_color=fff)](https://github.com/jesus73514145)
 
 Naranja a Amarillo:
 [![Ejemplo 3](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&layout=compact&langs_count=10&bg_color=30,FF8008,FFC837&title_color=fff&text_color=fff)](https://github.com/jesus73514145)
@@ -122,7 +122,7 @@ Azul a Gris Claro:
 
 Amarillo a Rojo:
 
-[![Ejemplo 6](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&layout=compact&langs_count=10&bg_color=30,FFD700,FF0000&title_color=fff&text_color=fff)](https://github.com/jesus73514145)
+[![Ejemplo 6](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&layout=compact&langs_count=10&bg_color=30,FFD700,FF0000&title_color=fff&text_color=fff)](https://github.com/jesus73514145) -->
 
 *   Setting card locale
 
