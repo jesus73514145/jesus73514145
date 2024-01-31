@@ -137,6 +137,7 @@ Amarillo a Rojo:
 [![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus73514145&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jesus73514145) -->
 [![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus73514145&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jesus73514145)
 
+[![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus73514145&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,192F6A,49a7c5&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jesus73514145)
         
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
