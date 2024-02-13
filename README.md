@@ -2,15 +2,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h1 >¡Hola! Soy Jesús 👋</h1>
+<h1 >Hello! I'm Jesús 👋</h1>
 
 <p >
-  Soy un apasionado desarrollador que disfruta creando y aprendiendo nuevas tecnologías. Me encanta resolver problemas y construir soluciones innovadoras.
+  I'm a passionate developer who enjoys creating and learning new technologies. I love solving problems and building innovative solutions.
 </p>
 
 ---
 
-<h2 >🌱 Actualmente estoy aprendiendo:</h2>
+<h2 >🌱 Currently, I'm learning:</h2>
 
 <p >
   - .NET Core y ASP.NET <br>
@@ -24,7 +24,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/logoban.gif" />
-      <h4> Paradigma: Multiparadigma: Programación Estructurada, imperativo, programación genérica </h4>
+      <h4> Paradigm: Multiparadigm: Structured Programming, Imperative, Generic Programming </h4>
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@
 
 ---
 
-<h2 >📫 Contáctame</h2>
+<h2 >📫 Contact Me</h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesus73514145)](https://github.com/jesus73514145)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesus73514145/)](https://www.linkedin.com/in/jesus73514145/)
@@ -74,23 +74,23 @@
 
 ---
 
-<h2>🔧 Proyectos Destacados</h2>
+<h2>🔧 Featured Projects </h2>
 
-<h3>Athletix</h3>
+<h3>AthletiX</h3>
 <p>
-  E-commerce creado en mi curso de <strong>Programación 1</strong> para la venta de productos de gimnasio, como suplementos y ropa.
+  E-commerce created during my <strong>Programming 1</strong> course for the sale of gym products, such as supplements and clothing.
   <br>
-  🌐 <a href="https://athletix.onrender.com/AthetiX/Contacto">Ver proyecto</a>
+  🌐 <a href="https://athletix.onrender.com/AthetiX/Contacto">View Project</a>
 </p>
 
 ---
 
-<h2>🎤 Presentaciones y Charlas</h2>
+<h2>🎤 Presentations and Talks </h2>
 
 <p>
-  En mi proyecto de 4to ciclo, inicié la programación con <strong>Spring Boot</strong> y <strong>Android Studio</strong>, utilizando bases de datos MySQL y SQLite. Presenté este trabajo en la <strong>Expo EPICS</strong> de la Universidad San Martín de Porres.
+  During my 4th cycle project, I started programming with <strong>Spring Boot</strong> and <strong>Android Studio</strong>, using MySQL and SQLite databases. I presented this work at the <strong>EPICS Expo</strong> at Universidad San Martín de Porres.
   <br>
-  🎥 <a href="https://www.youtube.com/watch?v=JU1s9c_09LU&t=113s&ab_channel=FIAUSMP">Ver video de la presentación</a>
+  🎥 <a href="https://www.youtube.com/watch?v=JU1s9c_09LU&t=113s&ab_channel=FIAUSMP">Watch presentation video</a>
 </p>
 
 ---
@@ -137,7 +137,7 @@ Amarillo a Rojo:
 [![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus73514145&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jesus73514145)
 [![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus73514145&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jesus73514145)
  -->
-[![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus73514145&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,192F6A,49a7c5&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jesus73514145)
+[![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus73514145&custom_title=Statistics%20of%20Jesús%20Soria&bg_color=30,192F6A,49a7c5&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jesus73514145)
         
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
