@@ -92,7 +92,7 @@
 <p>
   During my 4th cycle project, I started programming with <strong>Spring Boot</strong> and <strong>Android Studio</strong>, using MySQL and SQLite databases. I presented this work at the <strong>EPICS Expo</strong> at Universidad San Martín de Porres.
   <br>
-  🎥 <a href="https://www.youtube.com/watch?v=JU1s9c_09LU&t=113s&ab_channel=FIAUSMP">Watch presentation video</a>
+  🎥 <a href="https://www.youtube.com/watch?v=JU1s9c_09LU">Watch presentation video</a>
 </p>
 
 ---
