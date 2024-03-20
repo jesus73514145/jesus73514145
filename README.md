@@ -80,7 +80,9 @@
 <p>
   E-commerce created during my <strong>Programming 1</strong> course for the sale of gym products, such as supplements and clothing.
   <br>
-  🌐 <a href="https://athletix.onrender.com/AthetiX/Contacto">View Project</a>
+  🌐 <a href="https://athletix.onrender.com/AthetiX/Contacto">View Project</a> 
+  <br>
+  🎥 <a href="https://www.youtube.com/watch?v=G9IsKzii8ck">View Video</a> 
 </p>
 
 ---
