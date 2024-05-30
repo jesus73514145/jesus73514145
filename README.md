@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+de+Computación+y+Sistemas+..&hearts;++;Programador+en+varios+lenguajes;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
 </p>
 
-## <picture><img src = "https://github.com/AlbertoSoria1998/Python_Colab/blob/master/Proyectos/gif/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+## <picture><img src = "https://github.com/jesus73514145/jesus73514145/blob/master/gif/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <p >
   I'm a passionate developer who enjoys creating and learning new technologies. I love solving problems and building innovative solutions.
@@ -86,7 +86,7 @@
 <td width="50%">
 <h3 align="center">AthletiX</h3>
 <div align="center">
-<a href="https://github.com/yasseram1/proyecto-ecommerce-deportivo-net" target="_blank"><img src="https://github.com/AlbertoSoria1998/Python_Colab/blob/master/Proyectos/gif/Images/img_athletix.jpeg"></a>
+<a href="https://github.com/yasseram1/proyecto-ecommerce-deportivo-net" target="_blank"><img src="https://github.com/jesus73514145/jesus73514145/blob/master/gif/Images/img_athletix.jpeg"></a>
 <p>
 <a href="https://github.com/yasseram1/proyecto-ecommerce-deportivo-net" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -106,7 +106,7 @@
 
 <h3 align="center">Godlunch</h3>
 <div align="center">                                       
-<a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank"><img src="https://github.com/AlbertoSoria1998/Python_Colab/blob/master/Proyectos/gif/Images/img_godlunch.jpeg"></a>
+<a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank"><img src="https://github.com/jesus73514145/jesus73514145/blob/master/gif/Images/img_godlunch.jpeg"></a>
 <br>
 <p>
 <a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank">
