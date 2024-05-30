@@ -106,7 +106,7 @@
 
 <h3 align="center">Godlunch</h3>
 <div align="center">                                       
-<a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank"><img src="https://github.com/AlbertoSoria1998/Python_Colab/blob/master/Proyectos/gif/Images/img_img_godlunch.jpeg"></a>
+<a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank"><img src="https://github.com/AlbertoSoria1998/Python_Colab/blob/master/Proyectos/gif/Images/img_godlunch.jpeg"></a>
 <br>
 <p>
 <a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank">
