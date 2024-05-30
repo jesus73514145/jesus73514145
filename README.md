@@ -26,7 +26,7 @@
   - GraphQL <br>
   - Docker y Kubernetes
 </p>
-
+<!--
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -35,7 +35,7 @@
     </td>
   </tr>
 </table>
-
+-->
 ---
 
 #### 🛠 Languages:
