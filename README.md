@@ -123,6 +123,31 @@
 </div>
 <br>
 <table>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Reconocimiento facial + Liveness</h3>
+
+<div align="center">
+<a href="https://github.com/yasseram1/urban-gym" target="_blank"><img src="https://github.com/jesus73514145/jesus73514145/blob/master/gif/Images/img_urbangym.jpeg"></a>
+<p>
+<a href="https://github.com/yasseram1/urban-gym" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-800080?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
+</a>
+</p>
+
+<p>Create your own <strong>gym system</strong> - Using libraries and integrating functionalities you will be able to create a complete system for registering and logging in people in a gym.</p>
+</div>
+                                                                                      
+</td>       
+ 
+</table>                                                                                 
+</div>
+<br>
   
 <!--
 <h2>🔧 Featured Projects </h2>
