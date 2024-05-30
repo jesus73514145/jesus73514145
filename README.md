@@ -2,7 +2,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h1 >Hello! I'm Jesús 👋</h1>
+<h1 >Hello! I'm Jesús </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Estdiante+de++Ingenieria+de+Computación+y+Sistemas+..&hearts;++;Programador+en+varios+lenguajes;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
+</p>
+
+## <picture><img src = "https://github.com/AlbertoSoria1998/Python_Colab/blob/master/Proyectos/gif/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 <p >
   I'm a passionate developer who enjoys creating and learning new technologies. I love solving problems and building innovative solutions.
