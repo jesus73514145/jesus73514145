@@ -86,7 +86,7 @@
 <td width="50%">
 <h3 align="center">AthletiX</h3>
 <div align="center">
-<a href="https://github.com/yasseram1/proyecto-ecommerce-deportivo-net" target="_blank"><img src="https://github.com/AprendeIngenia/Shopping-AI/assets/85022752/4ef1e21b-4ffd-4cc3-a6ae-ffdcbd4a8d53"></a>
+<a href="https://github.com/yasseram1/proyecto-ecommerce-deportivo-net" target="_blank"><img src="https://github.com/AlbertoSoria1998/Python_Colab/blob/master/Proyectos/gif/Images/img_athletix.jpeg"></a>
 <p>
 <a href="https://github.com/yasseram1/proyecto-ecommerce-deportivo-net" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -106,7 +106,7 @@
 
 <h3 align="center">Godlunch</h3>
 <div align="center">                                       
-<a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank"><img src="https://github.com/AprendeIngenia/car_gesture_control/assets/85022752/6b1fa3fe-2245-483a-9c4c-c71d1cd12243"></a>
+<a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank"><img src="https://github.com/AlbertoSoria1998/Python_Colab/blob/master/Proyectos/gif/Images/img_img_godlunch.jpeg"></a>
 <br>
 <p>
 <a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank">
