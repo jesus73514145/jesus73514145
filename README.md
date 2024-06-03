@@ -140,7 +140,7 @@
 </a>
 </p>
 
-</p>During my 5th cycle project, I started programming with <strong>Spring Boot<strong>, using THE Oracle database. I presented this work at the <strong>EPICS Expo 2023 - I</strong> at Universidad San Martín de Porres.</p>
+</p>During my 5th cycle project, I started programming with <strong>Spring Boot</strong>, using THE Oracle database. I presented this work at the <strong>EPICS Expo 2023 - I</strong> at Universidad San Martín de Porres.</p>
 </div>
                                                                                       
 </td>       
@@ -157,7 +157,7 @@
 </a>
 </p>
 
-</p>During my 5th cycle project, I started programming with <strong>Spring Boot<strong>, using THE Oracle database. I presented this work at the <strong>EPICS Expo 2023 - I</strong> at Universidad San Martín de Porres.</p>
+</p>During my 5th cycle project, I started programming with <strong>Spring Boot</strong>, using THE Oracle database. I presented this work at the <strong>EPICS Expo 2023 - I</strong> at Universidad San Martín de Porres.</p>
 </div>
 </div>
                                                                                       
