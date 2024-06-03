@@ -117,7 +117,7 @@
 </a>
 </p>
 
-</p>During my 4th cycle project, I started programming with <strong>Spring Boot</strong> and <strong>Android Studio</strong>, using MySQL and SQLite databases. I presented this work at the <strong>EPICS Expo</strong> at Universidad San Martín de Porres.</p>
+</p>During my 4th cycle project, I started programming with <strong>Spring Boot</strong> and <strong>Android Studio</strong>, using MySQL and SQLite databases. I presented this work at the <strong>EPICS Expo 2022 - II</strong> at Universidad San Martín de Porres.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -140,7 +140,7 @@
 </a>
 </p>
 
-<p>Create your own <strong>gym system</strong> - Using libraries and integrating functionalities you will be able to create a complete system for registering and logging in people in a gym.</p>
+</p>During my 5th cycle project, I started programming with <strong>Spring Boot, using THE Oracle database. I presented this work at the <strong>EPICS Expo 2023 - I</strong> at Universidad San Martín de Porres.</p>
 </div>
                                                                                       
 </td>       
@@ -157,7 +157,8 @@
 </a>
 </p>
 
-<p>Create your own <strong>gym system</strong> - Using libraries and integrating functionalities you will be able to create a complete system for registering and logging in people in a gym.</p>
+</p>During my 5th cycle project, I started programming with <strong>Spring Boot, using THE Oracle database. I presented this work at the <strong>EPICS Expo 2023 - I</strong> at Universidad San Martín de Porres.</p>
+</div>
 </div>
                                                                                       
 </td>  
