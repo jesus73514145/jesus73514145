@@ -127,7 +127,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Pardos Ckicken - Chatbot con Dialogflow</h3>
+<h3 align="center">Pardos Chicken - Chatbot con Dialogflow</h3>
 
 <div align="center">
 <a href="#" target="_blank"><img src="https://github.com/jesus73514145/jesus73514145/blob/master/gif/Images/pardos_chicken.jpeg"></a>
