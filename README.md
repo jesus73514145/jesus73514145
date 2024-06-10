@@ -127,12 +127,12 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Urbangym</h3>
+<h3 align="center">Pardos Ckicken - Chatbot con Dialogflow</h3>
 
 <div align="center">
-<a href="https://github.com/yasseram1/urban-gym" target="_blank"><img src="https://github.com/jesus73514145/jesus73514145/blob/master/gif/Images/img_urbangym.jpeg"></a>
+<a href="#" target="_blank"><img src="https://github.com/jesus73514145/jesus73514145/blob/master/gif/Images/pardos_chicken.jpeg"></a>
 <p>
-<a href="https://github.com/yasseram1/urban-gym" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-800080?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="#" target="_blank">
@@ -140,7 +140,8 @@
 </a>
 </p>
 
-</p>During my 5th cycle project, I started programming with <strong>Spring Boot</strong>, using THE Oracle database. I presented this work at the <strong>EPICS Expo 2023 - I</strong> at Universidad San Martín de Porres.</p>
+</p>During my seventh cycle, I delved into programming with <strong>Dialogflow .NET.</strong> I presented this work in my <strong>Artificial Intelligence</strong> course at San Martín de Porres University. 
+The project focused on developing a help chatbot for the process on the <strong>Pardos Chicken </strong>website, using <strong>Dialogflow</strong> to facilitate interaction and assistance for users.</p>
 </div>
                                                                                       
 </td>       
