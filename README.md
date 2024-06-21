@@ -6,7 +6,7 @@
 <!--  -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+de+Computación+y+Sistemas+..&hearts;++;Programador+en+varios+lenguajes;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+de+Computación+y+Sistemas+..&hearts;++;Programador+en+varios+lenguajes;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
 </p>
 
 ## <picture><img src = "https://github.com/jesus73514145/jesus73514145/blob/master/gif/mdImages/about_me.gif" width = 50px></picture> **About me**
