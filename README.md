@@ -80,7 +80,17 @@
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:jesus_soria@usmp.pe)](mailto:jesus_soria@usmp.pe)
 
 ---
-## Proyectos:
+<table border=1 width='99%'>
+<tr>
+<td bgcolor='#009CDE'>
+
+
+### **<font color="#FFFFFF">Projects</font>**
+
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td width="50%">
