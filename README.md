@@ -82,7 +82,7 @@
 ---
 <table width='99%'>
 <tr>
-<td bgcolor='#FDD000'>
+<td style="background-color:#FDD000; padding: 10px;">
 
 ## **<font color="#000000">Projects</font>**
 
