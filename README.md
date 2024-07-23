@@ -80,12 +80,11 @@
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:jesus_soria@usmp.pe)](mailto:jesus_soria@usmp.pe)
 
 ---
-<table border=1 width='99%'>
+<table width='99%'>
 <tr>
-<td bgcolor='#009CDE'>
+<td bgcolor='#FDD000'>
 
-
-### **<font color="#FFFFFF">Projects</font>**
+## **<font color="#000000">Projects</font>**
 
 </td>
 </tr>
