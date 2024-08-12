@@ -21,10 +21,10 @@
 
 <p >
   - .NET Core y ASP.NET <br>
-  - React y Redux <br>
+  <!-- - React y Redux <br>
   - Node.js y Express <br>
   - GraphQL <br>
-  - Docker y Kubernetes
+  - Docker y Kubernetes -->
 </p>
 <!--
 <table align="center">
